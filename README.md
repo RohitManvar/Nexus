@@ -28,17 +28,6 @@
 
 ---
 
-## 🛠 Tech Stack  
-
-| Layer          | Technology / Framework |
-|---------------|----------------------|
-| **Framework** | Flutter (Android/iOS) |
-| **Language**  | Dart |
-| **State Mgmt**| Simple `setState()` |
-| **Deployment**| Android APK |
-
----
-
 ## 🖌 Design Choices  
 
 | Aspect | Decision | Reason |
@@ -57,3 +46,4 @@
 ```bash
 flutter pub get
 flutter run
+
